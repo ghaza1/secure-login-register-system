@@ -1,6 +1,6 @@
 # Secure Web App
 
-This project is a web application developed for the final course project in Secure Software Development at Alexandria National University. The aim is to enhance the security of an existing web application or build one from scratch, focusing on implementing essential security features to protect the application and its users.
+This project is a web application developed for focusing on implementing essential security features to protect the application and its users.
 
 Features & Security Criteria
 The web application will integrate the following security features to ensure robustness and protection against common vulnerabilities:
@@ -19,3 +19,6 @@ Buffer Overflow Protection: The application will implement strategies to mitigat
 Access Control: Role-based access control (RBAC) will be used to restrict access to sensitive parts of the application based on user roles (e.g., Admin, User).
 
 File Permissions and Monitoring: Proper file permissions will be enforced to limit unauthorized access, and security monitoring will be incorporated to detect potential vulnerabilities or breaches in the system.
+
+The purpose of this project is to showcase the importance of secure software development practices in web applications. By integrating these security features, the project aims to demonstrate how to protect user data, prevent common vulnerabilities, and build a secure application environment.
+
