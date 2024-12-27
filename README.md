@@ -1,5 +1,9 @@
 # Secure Web App
 
+Defualt username: admin
+Defualt email: admin@secure.com
+Defualt password: admin1234
+
 This project is a web application developed for focusing on implementing essential security features to protect the application and its users.
 
 Features & Security Criteria
